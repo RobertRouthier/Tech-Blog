@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Seed Post 1",
+      "content": "This is post 1.  This post was created as part of the seed operation",
+      "user_id": 1
+    },
+    {
+      "title": "Seed Post 2",
+      "content": "This is post 2. This post was created as part of the seed operation",
+      "user_id": 1
+    },
+    {
+      "title": "Seed Post 3",
+      "content": "This is post 3. This post was created as part of the seed operation",
+      "user_id": 3
+    }
+  ]
